@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.863);
+    height: 60vh;
+    
+    display: flex;
+    justify-content: center;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    border: solid black;
+    width: 300px;
+    height: 300px;
+    background-color: aquamarine;
+
+    
+
+}
+
+#corpo{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin: 10px;
+}
+#valorA{
+    
+}
+#valorB{
+
+}
+#valorC{
+
+}
